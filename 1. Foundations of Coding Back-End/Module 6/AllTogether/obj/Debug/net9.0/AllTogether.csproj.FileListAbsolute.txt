@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 6\AllTogether\bin\Debug\net9.0\AllTogether.exe
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 6\AllTogether\bin\Debug\net9.0\AllTogether.deps.json
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 6\AllTogether\bin\Debug\net9.0\AllTogether.runtimeconfig.json
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 6\AllTogether\bin\Debug\net9.0\AllTogether.dll
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 6\AllTogether\bin\Debug\net9.0\AllTogether.pdb
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 6\AllTogether\obj\Debug\net9.0\AllTogether.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 6\AllTogether\obj\Debug\net9.0\AllTogether.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 6\AllTogether\obj\Debug\net9.0\AllTogether.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 6\AllTogether\obj\Debug\net9.0\AllTogether.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 6\AllTogether\obj\Debug\net9.0\AllTogether.sourcelink.json
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 6\AllTogether\obj\Debug\net9.0\AllTogether.dll
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 6\AllTogether\obj\Debug\net9.0\refint\AllTogether.dll
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 6\AllTogether\obj\Debug\net9.0\AllTogether.pdb
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 6\AllTogether\obj\Debug\net9.0\AllTogether.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 6\AllTogether\obj\Debug\net9.0\ref\AllTogether.dll

@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+    "C:\\Users\\Administrador\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Cursos y Certificaciones\\Backend-Developer\\1. Foundations of Coding Back-End\\Module 5\\methods\\methods.csproj",
+      "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Backend-Developer\\1. Foundations of Coding Back-End\\Module 5\\methods\\methods.csproj",
       "projectName": "methods",
-      "projectPath": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Cursos y Certificaciones\\Backend-Developer\\1. Foundations of Coding Back-End\\Module 5\\methods\\methods.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Cursos y Certificaciones\\Backend-Developer\\1. Foundations of Coding Back-End\\Module 5\\methods\\obj\\",
+      "projectPath": "C:\\Users\\Administrador\\Documents\\Backend-Developer\\1. Foundations of Coding Back-End\\Module 5\\methods\\methods.csproj",
+      "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrador\\Documents\\Backend-Developer\\1. Foundations of Coding Back-End\\Module 5\\methods\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"

@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 5\methodsAndFunctions\bin\Debug\net9.0\methodsAndFunctions.exe
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 5\methodsAndFunctions\bin\Debug\net9.0\methodsAndFunctions.deps.json
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 5\methodsAndFunctions\bin\Debug\net9.0\methodsAndFunctions.runtimeconfig.json
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 5\methodsAndFunctions\bin\Debug\net9.0\methodsAndFunctions.dll
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 5\methodsAndFunctions\bin\Debug\net9.0\methodsAndFunctions.pdb
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 5\methodsAndFunctions\obj\Debug\net9.0\methodsAndFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 5\methodsAndFunctions\obj\Debug\net9.0\methodsAndFunctions.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 5\methodsAndFunctions\obj\Debug\net9.0\methodsAndFunctions.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 5\methodsAndFunctions\obj\Debug\net9.0\methodsAndFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 5\methodsAndFunctions\obj\Debug\net9.0\methodsAndFunctions.sourcelink.json
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 5\methodsAndFunctions\obj\Debug\net9.0\methodsAndFunctions.dll
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 5\methodsAndFunctions\obj\Debug\net9.0\refint\methodsAndFunctions.dll
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 5\methodsAndFunctions\obj\Debug\net9.0\methodsAndFunctions.pdb
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 5\methodsAndFunctions\obj\Debug\net9.0\methodsAndFunctions.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Backend-Developer\1. Foundations of Coding Back-End\Module 5\methodsAndFunctions\obj\Debug\net9.0\ref\methodsAndFunctions.dll

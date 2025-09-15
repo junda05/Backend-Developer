@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 2\DebuggingCode\bin\Debug\net9.0\DebuggingCode.exe
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 2\DebuggingCode\bin\Debug\net9.0\DebuggingCode.deps.json
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 2\DebuggingCode\bin\Debug\net9.0\DebuggingCode.runtimeconfig.json
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 2\DebuggingCode\bin\Debug\net9.0\DebuggingCode.dll
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 2\DebuggingCode\bin\Debug\net9.0\DebuggingCode.pdb
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 2\DebuggingCode\obj\Debug\net9.0\DebuggingCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 2\DebuggingCode\obj\Debug\net9.0\DebuggingCode.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 2\DebuggingCode\obj\Debug\net9.0\DebuggingCode.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 2\DebuggingCode\obj\Debug\net9.0\DebuggingCode.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 2\DebuggingCode\obj\Debug\net9.0\DebuggingCode.sourcelink.json
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 2\DebuggingCode\obj\Debug\net9.0\DebuggingCode.dll
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 2\DebuggingCode\obj\Debug\net9.0\refint\DebuggingCode.dll
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 2\DebuggingCode\obj\Debug\net9.0\DebuggingCode.pdb
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 2\DebuggingCode\obj\Debug\net9.0\DebuggingCode.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 2\DebuggingCode\obj\Debug\net9.0\ref\DebuggingCode.dll

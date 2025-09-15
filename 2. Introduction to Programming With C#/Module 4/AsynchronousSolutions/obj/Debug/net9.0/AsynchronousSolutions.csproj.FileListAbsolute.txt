@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsynchronousSolutions\bin\Debug\net9.0\AsynchronousSolutions.exe
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsynchronousSolutions\bin\Debug\net9.0\AsynchronousSolutions.deps.json
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsynchronousSolutions\bin\Debug\net9.0\AsynchronousSolutions.runtimeconfig.json
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsynchronousSolutions\bin\Debug\net9.0\AsynchronousSolutions.dll
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsynchronousSolutions\bin\Debug\net9.0\AsynchronousSolutions.pdb
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsynchronousSolutions\obj\Debug\net9.0\AsynchronousSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsynchronousSolutions\obj\Debug\net9.0\AsynchronousSolutions.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsynchronousSolutions\obj\Debug\net9.0\AsynchronousSolutions.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsynchronousSolutions\obj\Debug\net9.0\AsynchronousSolutions.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsynchronousSolutions\obj\Debug\net9.0\AsynchronousSolutions.sourcelink.json
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsynchronousSolutions\obj\Debug\net9.0\AsynchronousSolutions.dll
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsynchronousSolutions\obj\Debug\net9.0\refint\AsynchronousSolutions.dll
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsynchronousSolutions\obj\Debug\net9.0\AsynchronousSolutions.pdb
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsynchronousSolutions\obj\Debug\net9.0\AsynchronousSolutions.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsynchronousSolutions\obj\Debug\net9.0\ref\AsynchronousSolutions.dll

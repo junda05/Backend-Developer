@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\InheriPoly\obj\Debug\net9.0\InheriPoly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\InheriPoly\obj\Debug\net9.0\InheriPoly.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\InheriPoly\obj\Debug\net9.0\InheriPoly.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\InheriPoly\obj\Debug\net9.0\InheriPoly.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\InheriPoly\obj\Debug\net9.0\InheriPoly.sourcelink.json
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\InheriPoly\bin\Debug\net9.0\InheriPoly.exe
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\InheriPoly\bin\Debug\net9.0\InheriPoly.deps.json
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\InheriPoly\bin\Debug\net9.0\InheriPoly.runtimeconfig.json
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\InheriPoly\bin\Debug\net9.0\InheriPoly.dll
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\InheriPoly\bin\Debug\net9.0\InheriPoly.pdb
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\InheriPoly\obj\Debug\net9.0\InheriPoly.dll
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\InheriPoly\obj\Debug\net9.0\refint\InheriPoly.dll
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\InheriPoly\obj\Debug\net9.0\InheriPoly.pdb
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\InheriPoly\obj\Debug\net9.0\InheriPoly.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\InheriPoly\obj\Debug\net9.0\ref\InheriPoly.dll

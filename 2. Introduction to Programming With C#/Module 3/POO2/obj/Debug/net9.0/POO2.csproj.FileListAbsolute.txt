@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\POO2\bin\Debug\net9.0\POO2.exe
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\POO2\bin\Debug\net9.0\POO2.deps.json
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\POO2\bin\Debug\net9.0\POO2.runtimeconfig.json
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\POO2\bin\Debug\net9.0\POO2.dll
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\POO2\bin\Debug\net9.0\POO2.pdb
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\POO2\obj\Debug\net9.0\POO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\POO2\obj\Debug\net9.0\POO2.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\POO2\obj\Debug\net9.0\POO2.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\POO2\obj\Debug\net9.0\POO2.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\POO2\obj\Debug\net9.0\POO2.sourcelink.json
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\POO2\obj\Debug\net9.0\POO2.dll
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\POO2\obj\Debug\net9.0\refint\POO2.dll
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\POO2\obj\Debug\net9.0\POO2.pdb
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\POO2\obj\Debug\net9.0\POO2.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 3\POO2\obj\Debug\net9.0\ref\POO2.dll

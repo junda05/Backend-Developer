@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsyncandAwait\obj\Debug\net9.0\AsyncandAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsyncandAwait\obj\Debug\net9.0\AsyncandAwait.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsyncandAwait\obj\Debug\net9.0\AsyncandAwait.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsyncandAwait\obj\Debug\net9.0\AsyncandAwait.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsyncandAwait\obj\Debug\net9.0\AsyncandAwait.sourcelink.json
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsyncandAwait\bin\Debug\net9.0\AsyncandAwait.exe
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsyncandAwait\bin\Debug\net9.0\AsyncandAwait.deps.json
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsyncandAwait\bin\Debug\net9.0\AsyncandAwait.runtimeconfig.json
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsyncandAwait\bin\Debug\net9.0\AsyncandAwait.dll
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsyncandAwait\bin\Debug\net9.0\AsyncandAwait.pdb
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsyncandAwait\obj\Debug\net9.0\AsyncandAwait.dll
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsyncandAwait\obj\Debug\net9.0\refint\AsyncandAwait.dll
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsyncandAwait\obj\Debug\net9.0\AsyncandAwait.pdb
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsyncandAwait\obj\Debug\net9.0\AsyncandAwait.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 4\AsyncandAwait\obj\Debug\net9.0\ref\AsyncandAwait.dll

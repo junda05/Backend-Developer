@@ -1,0 +1,5 @@
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 2\BasicPrograms\obj\Debug\net9.0\BasicPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 2\BasicPrograms\obj\Debug\net9.0\BasicPrograms.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 2\BasicPrograms\obj\Debug\net9.0\BasicPrograms.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 2\BasicPrograms\obj\Debug\net9.0\BasicPrograms.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Backend-Developer\2. Introduction to Programming With C#\Module 2\BasicPrograms\obj\Debug\net9.0\BasicPrograms.sourcelink.json

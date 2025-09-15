@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        
+        {
+            "name": "C#: Launch Startup Project",
+            "type": "dotnet",
+            "request": "launch"
+        },
+        {
+            "name": "C#: methods",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\1. Foundations of Coding Back-End\\Module 5\\methods\\methods.csproj",
+            "launchConfigurationId": "TargetFramework=;methods"
+        },
+        {
+            "name": "C#: DebuggingCode",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\2. Introduction to Programming With C#\\Module 2\\DebuggingCode\\DebuggingCode.csproj"
+        }
+    ]
+}

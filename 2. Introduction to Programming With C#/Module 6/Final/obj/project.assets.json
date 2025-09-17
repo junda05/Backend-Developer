@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Backend-Developer\\1. Foundations of Coding Back-End\\Module 5\\methods\\methods.csproj",
-      "projectName": "methods",
-      "projectPath": "C:\\Users\\Administrador\\Documents\\Backend-Developer\\1. Foundations of Coding Back-End\\Module 5\\methods\\methods.csproj",
+      "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Backend-Developer\\2. Introduction to Programming With C#\\Module 6\\Final\\Final.csproj",
+      "projectName": "Final",
+      "projectPath": "C:\\Users\\Administrador\\Documents\\Backend-Developer\\2. Introduction to Programming With C#\\Module 6\\Final\\Final.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador\\Documents\\Backend-Developer\\1. Foundations of Coding Back-End\\Module 5\\methods\\obj\\",
+      "outputPath": "C:\\Users\\Administrador\\Documents\\Backend-Developer\\2. Introduction to Programming With C#\\Module 6\\Final\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,29 @@
+### Enpoints for Products API
+
+GET  http://localhost:5006/api/products
+
+### Enpoints for WeatherForecast API
+GET http://localhost:5006/api/weatherforecast
+
+###
+POST http://localhost:5006/api/weatherforecast
+Content-Type: application/json
+
+{
+  "date": "2024-06-20T15:30:00",
+  "temperatureC": 25,
+  "summary": "Warm"
+}
+
+###
+PUT http://localhost:5006/api/weatherforecast/1
+Content-Type: application/json
+
+{
+  "date": "2024-06-21T15:30:00",
+  "temperatureC": 26,
+  "summary": "Warm"
+}
+
+###
+DELETE http://localhost:5006/api/weatherforecast/5

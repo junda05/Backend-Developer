@@ -1,0 +1,25 @@
+### GET /api/products
+GET http://localhost:5012/api/products
+
+### POST /api/products
+POST http://localhost:5012/api/products
+Content-Type: application/json
+
+{
+    "name": "New Product",
+    "description": "Description of new product",
+    "price": 9.99
+}
+
+### PUT /api/products/1
+PUT http://localhost:5012/api/products/1
+Content-Type: application/json
+
+{
+    "name": "Updated Product",
+    "description": "Updated description",
+    "price": 19.99
+}
+
+### DELETE /api/products/1
+DELETE http://localhost:5012/api/products/1

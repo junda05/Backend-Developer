@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ir+rVmvSmkw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrador\\Documents\\Backend-Developer\\3. Back-End Development with .NET\\Module 2\\DependencyInjection\\DependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

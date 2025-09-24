@@ -80,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Backend-Developer\\3. Back-End Development with .NET\\ItemsAPI\\ItemsAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Backend-Developer\\3. Back-End Development with .NET\\Module 2\\ItemsAPI\\ItemsAPI.csproj",
       "projectName": "ItemsAPI",
-      "projectPath": "C:\\Users\\Administrador\\Documents\\Backend-Developer\\3. Back-End Development with .NET\\ItemsAPI\\ItemsAPI.csproj",
+      "projectPath": "C:\\Users\\Administrador\\Documents\\Backend-Developer\\3. Back-End Development with .NET\\Module 2\\ItemsAPI\\ItemsAPI.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador\\Documents\\Backend-Developer\\3. Back-End Development with .NET\\ItemsAPI\\obj\\",
+      "outputPath": "C:\\Users\\Administrador\\Documents\\Backend-Developer\\3. Back-End Development with .NET\\Module 2\\ItemsAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"

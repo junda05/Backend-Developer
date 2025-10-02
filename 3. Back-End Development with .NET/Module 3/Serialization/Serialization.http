@@ -1,0 +1,19 @@
+@Serialization_HostAddress = http://localhost:5237
+
+### GET root route
+GET {{Serialization_HostAddress}}/
+
+### GET manual JSON route
+GET {{Serialization_HostAddress}}/manual-json
+
+### GET custom serializer route
+GET {{Serialization_HostAddress}}/custom-serializer
+
+### GET JSON route
+GET {{Serialization_HostAddress}}/json
+
+### GET auto route
+GET {{Serialization_HostAddress}}/auto
+
+### GET XML route
+GET {{Serialization_HostAddress}}/xml

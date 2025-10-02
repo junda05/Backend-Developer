@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\ConsoleDeserialization\bin\Debug\net9.0\ConsoleDeserialization.exe
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\ConsoleDeserialization\bin\Debug\net9.0\ConsoleDeserialization.deps.json
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\ConsoleDeserialization\bin\Debug\net9.0\ConsoleDeserialization.runtimeconfig.json
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\ConsoleDeserialization\bin\Debug\net9.0\ConsoleDeserialization.dll
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\ConsoleDeserialization\bin\Debug\net9.0\ConsoleDeserialization.pdb
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\ConsoleDeserialization\obj\Debug\net9.0\ConsoleDeserialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\ConsoleDeserialization\obj\Debug\net9.0\ConsoleDeserialization.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\ConsoleDeserialization\obj\Debug\net9.0\ConsoleDeserialization.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\ConsoleDeserialization\obj\Debug\net9.0\ConsoleDeserialization.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\ConsoleDeserialization\obj\Debug\net9.0\ConsoleDeserialization.sourcelink.json
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\ConsoleDeserialization\obj\Debug\net9.0\ConsoleDeserialization.dll
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\ConsoleDeserialization\obj\Debug\net9.0\refint\ConsoleDeserialization.dll
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\ConsoleDeserialization\obj\Debug\net9.0\ConsoleDeserialization.pdb
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\ConsoleDeserialization\obj\Debug\net9.0\ConsoleDeserialization.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\ConsoleDeserialization\obj\Debug\net9.0\ref\ConsoleDeserialization.dll

@@ -1,0 +1,99 @@
+### POST /auto
+POST http://localhost:5024/auto
+Content-Type: application/json
+
+{
+    "UserName": "Alice",
+    "UserAge": 30
+}
+
+### POST /manual
+POST http://localhost:5024/manual
+Content-Type: application/json
+
+{
+    "UserName": "Alice",
+    "UserAge": 30
+}
+
+### POST XML Request to JSON Endpoint
+POST http://localhost:5024/manual
+Content-Type: application/xml
+
+<Person>
+    <UserName>Alice</UserName>
+    <UserAge>30</UserAge>
+</Person>
+
+### POST XML as application/json
+POST http://localhost:5024/manual
+Content-Type: application/json
+
+<Person>
+    <UserName>Alice</UserName>
+    <UserAge>30</UserAge>
+</Person>
+
+### POST /manual UserAge missing
+POST http://localhost:5024/manual
+Content-Type: application/json
+
+{
+    "UserName": "Alice"
+}
+
+### POST /manual UserName missing
+POST http://localhost:5024/manual
+Content-Type: application/json
+
+{
+    "UserAge": 30
+}
+
+### POST with extra field in JSON object. The extra field is not mapped to the Person model, 
+### but the request should still succeed.
+POST http://localhost:5024/manual
+Content-Type: application/json
+
+{
+    "UserName": "Alice",
+    "UserAge": 30,
+    "ExtraField": "This field is not mapped"
+}
+
+### POST custom-options with extra field in JSON object. With the custom options, the request should fail.
+POST http://localhost:5024/custom-options
+Content-Type: application/json
+
+{
+    "UserName": "Alice",
+    "UserAge": 30,
+    "ExtraField": "This field is not mapped"
+}
+
+### POST /manual wrong data type for UserAge (string instead of int)
+POST http://localhost:5024/manual
+Content-Type: application/json
+
+{
+    "UserName": "Alice",
+    "UserAge": "thirty"
+}
+
+### POST /xml
+POST http://localhost:5024/xml
+Content-Type: application/xml
+
+<Person>
+    <UserName>Alice</UserName>
+    <UserAge>30</UserAge>
+</Person>
+
+### POST /xml Send JSON data to XML endpoint
+POST http://localhost:5024/xml
+Content-Type: application/json
+
+{
+    "UserName": "Alice",
+    "UserAge": 30
+}

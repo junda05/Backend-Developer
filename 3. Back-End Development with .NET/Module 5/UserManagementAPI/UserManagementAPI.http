@@ -1,0 +1,78 @@
+@UserManagementAPI_HostAddress = http://localhost:7159
+@ApiKey = user-management-api-key-123
+
+### Get all users
+GET {{UserManagementAPI_HostAddress}}/api/users
+Accept: application/json
+X-API-Key: {{ApiKey}}
+
+### Get user by ID
+GET {{UserManagementAPI_HostAddress}}/api/users/1
+Accept: application/json
+X-API-Key: {{ApiKey}}
+
+### Create a new user
+POST {{UserManagementAPI_HostAddress}}/api/users
+Content-Type: application/json
+X-API-Key: {{ApiKey}}
+
+{
+  "name": "Alice Johnson",
+  "email": "alice.johnson@example.com",
+  "age": 28
+}
+
+### Update user
+PUT {{UserManagementAPI_HostAddress}}/api/users/1
+Content-Type: application/json
+X-API-Key: {{ApiKey}}
+
+{
+  "name": "John Updated",
+  "age": 31
+}
+
+### Delete user
+DELETE {{UserManagementAPI_HostAddress}}/api/users/2
+X-API-Key: {{ApiKey}}
+
+### Test validation - Invalid email
+POST {{UserManagementAPI_HostAddress}}/api/users
+Content-Type: application/json
+X-API-Key: {{ApiKey}}
+
+{
+  "name": "Test User",
+  "email": "invalid-email",
+  "age": 25
+}
+
+### Test validation - Age out of range
+POST {{UserManagementAPI_HostAddress}}/api/users
+Content-Type: application/json
+X-API-Key: {{ApiKey}}
+
+{
+  "name": "Test User",
+  "email": "test@example.com",
+  "age": 15
+}
+
+### Test validation - Missing required fields
+POST {{UserManagementAPI_HostAddress}}/api/users
+Content-Type: application/json
+X-API-Key: {{ApiKey}}
+
+{
+  "name": "",
+  "age": 25
+}
+
+### Test without API Key (should return 401)
+GET {{UserManagementAPI_HostAddress}}/api/users
+Accept: application/json
+
+### Test with invalid API Key (should return 401)
+GET {{UserManagementAPI_HostAddress}}/api/users
+Accept: application/json
+X-API-Key: invalid-key-123

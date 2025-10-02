@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 2\SerializationTypes\bin\Debug\net9.0\SerializationTypes.exe
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 2\SerializationTypes\bin\Debug\net9.0\SerializationTypes.deps.json
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 2\SerializationTypes\bin\Debug\net9.0\SerializationTypes.runtimeconfig.json
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 2\SerializationTypes\bin\Debug\net9.0\SerializationTypes.dll
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 2\SerializationTypes\bin\Debug\net9.0\SerializationTypes.pdb
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 2\SerializationTypes\obj\Debug\net9.0\SerializationTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 2\SerializationTypes\obj\Debug\net9.0\SerializationTypes.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 2\SerializationTypes\obj\Debug\net9.0\SerializationTypes.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 2\SerializationTypes\obj\Debug\net9.0\SerializationTypes.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 2\SerializationTypes\obj\Debug\net9.0\SerializationTypes.sourcelink.json
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 2\SerializationTypes\obj\Debug\net9.0\SerializationTypes.dll
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 2\SerializationTypes\obj\Debug\net9.0\refint\SerializationTypes.dll
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 2\SerializationTypes\obj\Debug\net9.0\SerializationTypes.pdb
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 2\SerializationTypes\obj\Debug\net9.0\SerializationTypes.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 2\SerializationTypes\obj\Debug\net9.0\ref\SerializationTypes.dll

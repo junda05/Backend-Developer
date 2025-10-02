@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\SerializationSecurityApp\bin\Debug\net9.0\SerializationSecurityApp.exe
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\SerializationSecurityApp\bin\Debug\net9.0\SerializationSecurityApp.deps.json
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\SerializationSecurityApp\bin\Debug\net9.0\SerializationSecurityApp.runtimeconfig.json
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\SerializationSecurityApp\bin\Debug\net9.0\SerializationSecurityApp.dll
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\SerializationSecurityApp\bin\Debug\net9.0\SerializationSecurityApp.pdb
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\SerializationSecurityApp\obj\Debug\net9.0\SerializationSecurityApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\SerializationSecurityApp\obj\Debug\net9.0\SerializationSecurityApp.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\SerializationSecurityApp\obj\Debug\net9.0\SerializationSecurityApp.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\SerializationSecurityApp\obj\Debug\net9.0\SerializationSecurityApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\SerializationSecurityApp\obj\Debug\net9.0\SerializationSecurityApp.sourcelink.json
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\SerializationSecurityApp\obj\Debug\net9.0\SerializationSecurityApp.dll
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\SerializationSecurityApp\obj\Debug\net9.0\refint\SerializationSecurityApp.dll
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\SerializationSecurityApp\obj\Debug\net9.0\SerializationSecurityApp.pdb
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\SerializationSecurityApp\obj\Debug\net9.0\SerializationSecurityApp.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 3\SerializationSecurityApp\obj\Debug\net9.0\ref\SerializationSecurityApp.dll

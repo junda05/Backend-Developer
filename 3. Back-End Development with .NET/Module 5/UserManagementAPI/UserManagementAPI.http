@@ -23,17 +23,18 @@ X-API-Key: {{ApiKey}}
 }
 
 ### Update user
-PUT {{UserManagementAPI_HostAddress}}/api/users/1
+PUT {{UserManagementAPI_HostAddress}}/api/users/2
 Content-Type: application/json
 X-API-Key: {{ApiKey}}
 
 {
-  "name": "John Updated",
-  "age": 31
+  "name": "Ana Jansen",
+  "email": "ana.jansen@example.com",
+  "age": 28
 }
 
 ### Delete user
-DELETE {{UserManagementAPI_HostAddress}}/api/users/2
+DELETE {{UserManagementAPI_HostAddress}}/api/users/1
 X-API-Key: {{ApiKey}}
 
 ### Test validation - Invalid email

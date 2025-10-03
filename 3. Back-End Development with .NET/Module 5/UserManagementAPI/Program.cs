@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+using UserManagementAPI.Database;
 using UserManagementAPI.Interfaces;
 using UserManagementAPI.Services;
 using UserManagementAPI.Middleware;
@@ -8,10 +10,14 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddOpenApi();
 
-// Register custom services
-builder.Services.AddSingleton<IUserService, UserService>();
+// Configure database context with SQL Server
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// Add logging
+// Register application services
+builder.Services.AddScoped<IUserService, UserService>();
+
+// Configure logging
 builder.Logging.ClearProviders();
 builder.Logging.AddConsole();
 
@@ -23,13 +29,12 @@ if (app.Environment.IsDevelopment())
     app.MapOpenApi();
 }
 
-// Use custom middleware
+// Add custom middleware
 app.UseMiddleware<RequestLoggingMiddleware>();
 app.UseMiddleware<ApiKeyAuthenticationMiddleware>();
 
 app.UseHttpsRedirection();
 
-// Map controllers
 app.MapControllers();
 
 app.Run();

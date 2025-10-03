@@ -1,0 +1,17 @@
+# Crear la migración inicial (crea el esquema de la BD)
+dotnet ef migrations add InitialCreate
+
+# Aplicar la migración a la base de datos (crea las tablas)
+dotnet ef database update
+
+# Agregar una nueva migración después de modificar modelos
+dotnet ef migrations add NombreDelCambio
+
+# Ver qué migraciones están aplicadas
+dotnet ef migrations list
+
+# Eliminar la última migración (si no se aplicó aún)
+dotnet ef migrations remove
+
+# Borrar toda la base de datos
+dotnet ef database drop --force

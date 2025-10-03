@@ -2,6 +2,22 @@ using System.ComponentModel.DataAnnotations;
 
 namespace UserManagementAPI.DTOs.Users
 {
+    /// <summary>
+    /// DTO for reading user data
+    /// </summary>
+    public class UserDto
+    {
+        public int Id { get; set; }
+        public string Name { get; set; } = string.Empty;
+        public string Email { get; set; } = string.Empty;
+        public int Age { get; set; }
+        public DateTime CreatedAt { get; set; }
+        public DateTime UpdatedAt { get; set; }
+    }
+
+    /// <summary>
+    /// DTO for creating a new user
+    /// </summary>
     public class CreateUserDto
     {
         [Required(ErrorMessage = "Name is required")]
@@ -16,6 +32,9 @@ namespace UserManagementAPI.DTOs.Users
         public int Age { get; set; }
     }
 
+    /// <summary>
+    /// DTO for updating an existing user
+    /// </summary>
     public class UpdateUserDto
     {
         [StringLength(100, ErrorMessage = "Name cannot exceed 100 characters")]

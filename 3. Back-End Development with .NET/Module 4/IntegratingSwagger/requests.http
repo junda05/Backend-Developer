@@ -1,0 +1,27 @@
+### GET /blogs
+GET http://localhost:5146/blogs
+
+### GET /blogs/{id}
+GET http://localhost:5146/blogs/1
+
+### POST /blogs
+POST http://localhost:5146/blogs
+X-Api-Key: ThisIsaBadPassword
+Content-Type: application/json
+
+{
+    "title": "Third Post",
+    "body": "This is the third blog post."
+}
+
+### DELETE /blogs/{id}
+DELETE http://localhost:5146/blogs/1
+
+### PUT /blogs/{id}
+PUT http://localhost:5146/blogs/2
+Content-Type: application/json
+
+{
+    "title": "Updated Third Post",
+    "body": "This is the updated content of the third blog post."
+}

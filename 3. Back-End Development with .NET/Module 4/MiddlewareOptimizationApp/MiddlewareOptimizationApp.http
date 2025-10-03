@@ -1,0 +1,4 @@
+@MiddlewareOptimizationApp_HostAddress = http://localhost:5294
+
+GET {{MiddlewareOptimizationApp_HostAddress}}/?secure=true&input=validInput&authenticated=true
+Accept: application/json

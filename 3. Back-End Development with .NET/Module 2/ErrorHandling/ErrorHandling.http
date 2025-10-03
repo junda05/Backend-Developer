@@ -1,0 +1,2 @@
+### GET /api/ErrorHandlingController
+GET http://localhost:5232/api/ErrorHandling/division?numerator=10&denominator=0

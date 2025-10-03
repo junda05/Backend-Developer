@@ -1,0 +1,24 @@
+2025-10-03 17:27:13.655 -05:00 [INF] Now listening on: http://localhost:5232
+2025-10-03 17:27:13.678 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-03 17:27:13.678 -05:00 [INF] Hosting environment: Development
+2025-10-03 17:27:13.678 -05:00 [INF] Content root path: C:\Users\Administrador\Documents\Backend-Developer\3. Back-End Development with .NET\Module 2\ErrorHandling
+2025-10-03 17:27:39.980 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5232/api/ErrorHandlingController - null null
+2025-10-03 17:27:40.000 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5232/api/ErrorHandlingController - 404 0 null 17.2141ms
+2025-10-03 17:27:40.007 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5232/api/ErrorHandlingController, Response status code: 404
+2025-10-03 17:27:57.144 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5232/api/ErrorHandling/division?numerator=10&denominator=0 - null null
+2025-10-03 17:27:57.147 -05:00 [INF] Executing endpoint 'MyApi.Controllers.ErrorHandlingController.GetDivisionResult (ErrorHandling)'
+2025-10-03 17:27:57.166 -05:00 [INF] Route matched with {action = "GetDivisionResult", controller = "ErrorHandling"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetDivisionResult(Int32, Int32) on controller MyApi.Controllers.ErrorHandlingController (ErrorHandling).
+2025-10-03 17:27:57.181 -05:00 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2025-10-03 17:27:57.186 -05:00 [INF] Executed action MyApi.Controllers.ErrorHandlingController.GetDivisionResult (ErrorHandling) in 18.299ms
+2025-10-03 17:27:57.186 -05:00 [INF] Executed endpoint 'MyApi.Controllers.ErrorHandlingController.GetDivisionResult (ErrorHandling)'
+2025-10-03 17:27:57.186 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5232/api/ErrorHandling/division?numerator=10&denominator=0 - 400 null text/plain; charset=utf-8 42.3657ms
+2025-10-03 17:27:57.219 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5232/favicon.ico - null null
+2025-10-03 17:27:57.220 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5232/favicon.ico - 404 0 null 1.1239ms
+2025-10-03 17:27:57.220 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5232/favicon.ico, Response status code: 404
+2025-10-03 17:28:06.255 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5232/api/ErrorHandling/division?numerator=10&denominator=0 - null null
+2025-10-03 17:28:06.256 -05:00 [INF] Executing endpoint 'MyApi.Controllers.ErrorHandlingController.GetDivisionResult (ErrorHandling)'
+2025-10-03 17:28:06.256 -05:00 [INF] Route matched with {action = "GetDivisionResult", controller = "ErrorHandling"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetDivisionResult(Int32, Int32) on controller MyApi.Controllers.ErrorHandlingController (ErrorHandling).
+2025-10-03 17:28:06.256 -05:00 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2025-10-03 17:28:06.256 -05:00 [INF] Executed action MyApi.Controllers.ErrorHandlingController.GetDivisionResult (ErrorHandling) in 0.7201ms
+2025-10-03 17:28:06.256 -05:00 [INF] Executed endpoint 'MyApi.Controllers.ErrorHandlingController.GetDivisionResult (ErrorHandling)'
+2025-10-03 17:28:06.257 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5232/api/ErrorHandling/division?numerator=10&denominator=0 - 400 null text/plain; charset=utf-8 1.3966ms
